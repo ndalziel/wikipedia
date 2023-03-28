@@ -1,0 +1,4 @@
+# ignore all zipped (data) files
+*.bz2
+*.zip
+*.gzip
